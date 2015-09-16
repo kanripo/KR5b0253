@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:15:18.876177
+# -*- mode: mandoku-view -*-
 #+TITLE: 上清天樞院回車畢道正法
-#+PROPERTY: DZID  DZ0549
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，10—473 三卷 洞玄部方法類
+#+DATE: 2015-08-29 00:15:19
+#+PROPERTY:  LASTPB <PB KR5b0253_SJB_003-100485c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5b0253_HFL_003-015b>¶¶¶¶¶¶¶¶¶¶¶
+
